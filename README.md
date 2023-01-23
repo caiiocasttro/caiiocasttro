@@ -15,7 +15,6 @@
  <a href="https://discord.gg/caiiocasttro#5268" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/caio-chaves-57055322b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-Here are some ideas to get you started:
-
+What I'm working with:
 - 🖥 I’m currently working on a big application since the creation of desing until the full coding.
 - 📚 I’m currently learning Swift / SwiftUI following bootcamps and practicing with my projects.
