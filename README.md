@@ -1,7 +1,7 @@
 # Hello, I am Caio 😁
 <div>
   <a href="https://github.com/caiiocasttro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiiocasttro&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiiocasttro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiiocasttro&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
