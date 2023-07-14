@@ -1,4 +1,5 @@
-![GitHub](https://github.com/caiiocasttro/caiiocasttro/assets/104564732/8f8537ed-c398-4bcf-886a-dea5b8dd7500)
+
+![GitHub](https://github.com/caiiocasttro/caiiocasttro/assets/104564732/137012fd-ff46-4482-893e-c7ad3d934648)
 
 <h1 align="left">Hi 👋, I'm Caio</h1>
 <h3 align="left">A passionate IOS Developer from Brazil. 😁</h3>
@@ -15,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/caio-chaves-57055322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caio-chaves-57055322b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/caio-chaves-57055322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caio-chaves-57055322b" height="30" width="40" /></a>
 <a href="https://instagram.com/caiosdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caiosdev" height="30" width="40" /></a>
 </p>
 
