@@ -1,21 +1,30 @@
-# Hello, I am Caio 😁
-<div>
-  <a href="https://github.com/caiiocasttro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiiocasttro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiiocasttro&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-</div>
 
-##
+![85562d79ff5cd98affde0e96f9c5b4b4 2](https://github.com/caiiocasttro/caiiocasttro/assets/104564732/435583f2-3356-4e06-ba52-b4fefb7f8b29)
 
-<div> 
-  <a href="https://instagram.com/caiosdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/caiiocasttro#5268" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/caio-chaves-57055322b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-What I'm working with:
-  
-- 🖥 I’m currently working on a big application since the creation of desing until the full coding.
-- 📚 I’m currently learning Swift / SwiftUI following bootcamps and practicing with my projects.
+<h1 align="center">Hi 👋, I'm Caio</h1>
+<h3 align="center">A passionate IOS Developer from Brazil. 😁</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiiocasttro&label=Profile%20views&color=0e75b6&style=flat" alt="caiiocasttro" /> </p>
+
+- 🔭 I’m currently working on [Eventz Project](https://github.com/caiiocasttro/Eventz.git)
+
+- 🌱 I’m currently learning **VIPER**
+
+- 💬 Ask me about **Swift, SwiftUI & UI Design**
+
+- 📫 How to reach me **caiojob@outlook.pt**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/caio-chaves-57055322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caio-chaves-57055322b/" height="30" width="40" /></a>
+<a href="https://instagram.com/caiosdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caiosdev" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiiocasttro&show_icons=true&locale=en&layout=compact" alt="caiiocasttro" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiiocasttro&show_icons=true&locale=en" alt="caiiocasttro" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiiocasttro&" alt="caiiocasttro" /></p>
