@@ -4,7 +4,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Caio</h1>
-<h3 align="left">A passionate IOS Developer from Brazil. 😁</h3>
+<h3 align="left">A passionate iOS Developer from Brazil. 😁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiiocasttro&label=Profile%20views&color=0e75b6&style=flat" alt="caiiocasttro" /> </p>
 
